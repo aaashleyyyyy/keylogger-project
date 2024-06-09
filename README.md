@@ -2,7 +2,7 @@
 
 ## What is a key logger?
 
-A key Logger is a device that logs every key one has typed. It is often used by hackers and malicious actors 
+A key Logger is a program that logs every key one has typed. It is often used by hackers and malicious actors 
 to get confidential information. (Don't worry...I'm not trying to get any information. I did this project to learn
 more about cybersecurity)
 
